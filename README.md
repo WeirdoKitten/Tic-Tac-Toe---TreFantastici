@@ -1,4 +1,4 @@
-tic tac toe program that has many features.
+TicTacToe program that has many features.
 You can play tic tac toe with 3x3, 5x5, and 7x7 board sizes.
 In addition, this program has 2 modes, player vs player and player vs computer.
 The computer has 3 levels, "Pemula" (easy), "Menengah" (medium), and "Sepuh TicTacToe" (Hard).

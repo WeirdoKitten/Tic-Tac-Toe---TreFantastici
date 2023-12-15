@@ -13,4 +13,4 @@ TreFantistici
 
 - 231524007 | Farrel Zandra          | @farrel29__
 - 231524020 | Nobby Dharma Khaulid   | @nobbykhaulid
-- 231524026 | Satria Permata Sejati  | @WeirdoKitten
+- 231524026 | Satria Permata Sejati  | @WeirdoKitten (Leader)

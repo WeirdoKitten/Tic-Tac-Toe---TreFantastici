@@ -14,12 +14,6 @@ typedef struct{
     int skor;
 }PEMAIN;
 
-typedef struct{
-    char nama[50];
-    char bidak;
-    int skor;
-}PEMAIN2;
-
 char bidakKomputer;
 char pemenang;
 PEMAIN pemain1;
